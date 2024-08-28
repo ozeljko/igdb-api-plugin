@@ -1,0 +1,44 @@
+.igdb-game-data {
+    margin: 20px 0;
+}
+.igdb-game-data h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.igdb-game-data p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.igdb-game-data img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.igdb-game-media {
+    margin: 20px 0;
+}
+.igdb-game-trailers, .igdb-game-screenshots {
+    margin-bottom: 20px;
+}
+.igdb-trailer, .igdb-screenshot {
+    margin-bottom: 20px;
+}
+.igdb-screenshot img {
+    max-width: 100%;
+    height: auto;
+}
+.slick-slide {
+    margin: 0 10px;
+}
+.slick-prev, .slick-next {
+    color: #000;
+}
+.error-message {
+    color: red;
+    font-weight: bold;
+}
+.suggestions-message {
+    color: blue;
+    font-style: italic;
+}
